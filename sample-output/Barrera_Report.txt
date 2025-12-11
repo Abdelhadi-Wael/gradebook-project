@@ -1,0 +1,11 @@
+
+        STUDENT: Woody Barrera (wxb12345)
+        GRADE:   C (75%)
+        AVG:     76.5%
+        -----------------------------------
+        Exam 1: 86.0%
+        Exam 2: 62.0%
+        Exam 3: 90.0%
+        HW:     80.8%
+        Quiz:   60.2%
+        
